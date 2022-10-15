@@ -1,6 +1,5 @@
 # in the terminal, run this python script to launch the web
 # streamlit run streamlit.py
-
 # https://medium.com/towards-data-science/streamlit-101-an-in-depth-introduction-fc8aad9492f2
 
 import pandas as pd
